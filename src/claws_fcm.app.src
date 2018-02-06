@@ -1,0 +1,12 @@
+{application, claws_fcm, [
+    {description, "FCM Client for Snatch"},
+    {vsn, git},
+    {registered, []},
+    {applications, [kernel,
+                    stdlib,
+                    snatch]},
+    {env, []},
+    {maintainers, ["Manuel Rubio"]},
+    {licenses, ["Apache License 2.1"]},
+    {links, [{"Github", "https://github.com/snatch-xmpp/claws_fcm"}]}
+]}.

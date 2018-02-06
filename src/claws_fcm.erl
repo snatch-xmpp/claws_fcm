@@ -3,7 +3,7 @@
 -behaviour(claws).
 
 -include_lib("fast_xml/include/fxml.hrl").
--include("snatch.hrl").
+-include_lib("snatch/include/snatch.hrl").
 
 -record(data, {
     gcs_add :: inet:socket_address(),

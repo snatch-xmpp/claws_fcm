@@ -4,7 +4,7 @@
 
 Copyright (c) 2017 Yan Guiborat
 
-__Authors:__ "Manuel Rubio" ([`manuel@altenwald.com`](mailto:manuel@altenwald.com)).
+__Authors:__ "Manuel Rubio" ([`manuel@altenwald.com`](mailto:manuel@altenwald.com)), "Yan Guiborat" ([`yan.guiborat@veon.com`](mailto:yan.guiborat@veon.com)).
 
 [![Build Status](https://img.shields.io/travis/snatch-xmpp/claws_fcm/master.svg)](https://travis-ci.org/snatch-xmpp/claws_fcm)
 [![Codecov](https://img.shields.io/codecov/c/github/snatch-xmpp/claws_fcm.svg)](https://codecov.io/gh/snatch-xmpp/claws_fcm)
